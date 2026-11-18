@@ -1,0 +1,502 @@
+[
+  {
+    "start_time": 0.0,
+    "end_time": 0.17,
+    "value": 1.0
+  },
+  {
+    "start_time": 0.17,
+    "end_time": 0.34,
+    "value": 0.9679618850425098
+  },
+  {
+    "start_time": 0.34,
+    "end_time": 0.51,
+    "value": 0.8876830981217846
+  },
+  {
+    "start_time": 0.51,
+    "end_time": 0.68,
+    "value": 0.8226598903199261
+  },
+  {
+    "start_time": 0.68,
+    "end_time": 0.85,
+    "value": 0.764235295427094
+  },
+  {
+    "start_time": 0.85,
+    "end_time": 1.02,
+    "value": 0.6908833148317177
+  },
+  {
+    "start_time": 1.02,
+    "end_time": 1.19,
+    "value": 0.5823233401546525
+  },
+  {
+    "start_time": 1.19,
+    "end_time": 1.36,
+    "value": 0.5184106805147644
+  },
+  {
+    "start_time": 1.36,
+    "end_time": 1.53,
+    "value": 0.4817719165555454
+  },
+  {
+    "start_time": 1.53,
+    "end_time": 1.7,
+    "value": 0.4348592848166099
+  },
+  {
+    "start_time": 1.7,
+    "end_time": 1.87,
+    "value": 0.3904030649835749
+  },
+  {
+    "start_time": 1.87,
+    "end_time": 2.04,
+    "value": 0.3636396589706414
+  },
+  {
+    "start_time": 2.04,
+    "end_time": 2.21,
+    "value": 0.31621052118603565
+  },
+  {
+    "start_time": 2.21,
+    "end_time": 2.38,
+    "value": 0.27830944593145074
+  },
+  {
+    "start_time": 2.38,
+    "end_time": 2.55,
+    "value": 0.24878790665920536
+  },
+  {
+    "start_time": 2.55,
+    "end_time": 2.72,
+    "value": 0.219595087236352
+  },
+  {
+    "start_time": 2.72,
+    "end_time": 2.89,
+    "value": 0.20068794273491156
+  },
+  {
+    "start_time": 2.89,
+    "end_time": 3.06,
+    "value": 0.17648036927324487
+  },
+  {
+    "start_time": 3.06,
+    "end_time": 3.23,
+    "value": 0.16171264320013548
+  },
+  {
+    "start_time": 3.23,
+    "end_time": 3.4,
+    "value": 0.11855723948124684
+  },
+  {
+    "start_time": 3.4,
+    "end_time": 3.57,
+    "value": 0.09351053170717658
+  },
+  {
+    "start_time": 3.57,
+    "end_time": 3.74,
+    "value": 0.08258065311843533
+  },
+  {
+    "start_time": 3.74,
+    "end_time": 3.91,
+    "value": 0.06693792007948839
+  },
+  {
+    "start_time": 3.91,
+    "end_time": 4.08,
+    "value": 0.05915220059927637
+  },
+  {
+    "start_time": 4.08,
+    "end_time": 4.25,
+    "value": 0.050290301516044515
+  },
+  {
+    "start_time": 4.25,
+    "end_time": 4.42,
+    "value": 0.034171522573036385
+  },
+  {
+    "start_time": 4.42,
+    "end_time": 4.59,
+    "value": 0.035141287491341114
+  },
+  {
+    "start_time": 4.59,
+    "end_time": 4.76,
+    "value": 0.026773257831801175
+  },
+  {
+    "start_time": 4.76,
+    "end_time": 4.93,
+    "value": 0.026685719532855326
+  },
+  {
+    "start_time": 4.93,
+    "end_time": 5.1,
+    "value": 0.0323228400432367
+  },
+  {
+    "start_time": 5.1,
+    "end_time": 5.27,
+    "value": 0.04584908652957798
+  },
+  {
+    "start_time": 5.27,
+    "end_time": 5.44,
+    "value": 0.04505575189420019
+  },
+  {
+    "start_time": 5.44,
+    "end_time": 5.61,
+    "value": 0.02933721249327952
+  },
+  {
+    "start_time": 5.61,
+    "end_time": 5.78,
+    "value": 0.03445090812336613
+  },
+  {
+    "start_time": 5.78,
+    "end_time": 5.95,
+    "value": 0.03279941238036715
+  },
+  {
+    "start_time": 5.95,
+    "end_time": 6.12,
+    "value": 0.03835711670201414
+  },
+  {
+    "start_time": 6.12,
+    "end_time": 6.29,
+    "value": 0.04488315705220644
+  },
+  {
+    "start_time": 6.29,
+    "end_time": 6.46,
+    "value": 0.0351997215620292
+  },
+  {
+    "start_time": 6.46,
+    "end_time": 6.63,
+    "value": 0.02898555520301252
+  },
+  {
+    "start_time": 6.63,
+    "end_time": 6.8,
+    "value": 0.025438750001222078
+  },
+  {
+    "start_time": 6.8,
+    "end_time": 6.97,
+    "value": 0.024512303004045187
+  },
+  {
+    "start_time": 6.97,
+    "end_time": 7.14,
+    "value": 0.024778377318195023
+  },
+  {
+    "start_time": 7.14,
+    "end_time": 7.31,
+    "value": 0.026179065306052768
+  },
+  {
+    "start_time": 7.31,
+    "end_time": 7.48,
+    "value": 0.02500421710490841
+  },
+  {
+    "start_time": 7.48,
+    "end_time": 7.65,
+    "value": 0.008988919862372347
+  },
+  {
+    "start_time": 7.65,
+    "end_time": 7.82,
+    "value": 0.007283351922687738
+  },
+  {
+    "start_time": 7.82,
+    "end_time": 7.99,
+    "value": 0.011827070948211997
+  },
+  {
+    "start_time": 7.99,
+    "end_time": 8.16,
+    "value": 0.014767049230591748
+  },
+  {
+    "start_time": 8.16,
+    "end_time": 8.33,
+    "value": 0.025219979458581638
+  },
+  {
+    "start_time": 8.33,
+    "end_time": 8.5,
+    "value": 0.024306693288136297
+  },
+  {
+    "start_time": 8.5,
+    "end_time": 8.67,
+    "value": 0.012777282638229855
+  },
+  {
+    "start_time": 8.67,
+    "end_time": 8.84,
+    "value": 0.010490231771183309
+  },
+  {
+    "start_time": 8.84,
+    "end_time": 9.01,
+    "value": 0.009198590633386973
+  },
+  {
+    "start_time": 9.01,
+    "end_time": 9.18,
+    "value": 0.020936092755100253
+  },
+  {
+    "start_time": 9.18,
+    "end_time": 9.35,
+    "value": 0.015770205046432523
+  },
+  {
+    "start_time": 9.35,
+    "end_time": 9.52,
+    "value": 0.01444186400323621
+  },
+  {
+    "start_time": 9.52,
+    "end_time": 9.69,
+    "value": 0.01312292355056243
+  },
+  {
+    "start_time": 9.69,
+    "end_time": 9.86,
+    "value": 0.0
+  },
+  {
+    "start_time": 9.86,
+    "end_time": 10.03,
+    "value": 0.0065378474918886065
+  },
+  {
+    "start_time": 10.03,
+    "end_time": 10.2,
+    "value": 0.02518606212797633
+  },
+  {
+    "start_time": 10.2,
+    "end_time": 10.37,
+    "value": 0.031175967999487405
+  },
+  {
+    "start_time": 10.37,
+    "end_time": 10.54,
+    "value": 0.03142324113259217
+  },
+  {
+    "start_time": 10.54,
+    "end_time": 10.71,
+    "value": 0.029134234942716938
+  },
+  {
+    "start_time": 10.71,
+    "end_time": 10.88,
+    "value": 0.03179400042280096
+  },
+  {
+    "start_time": 10.88,
+    "end_time": 11.05,
+    "value": 0.028613517432492668
+  },
+  {
+    "start_time": 11.05,
+    "end_time": 11.22,
+    "value": 0.035300345482982415
+  },
+  {
+    "start_time": 11.22,
+    "end_time": 11.39,
+    "value": 0.0382600274030974
+  },
+  {
+    "start_time": 11.39,
+    "end_time": 11.56,
+    "value": 0.035307414727055356
+  },
+  {
+    "start_time": 11.56,
+    "end_time": 11.73,
+    "value": 0.037440972752049946
+  },
+  {
+    "start_time": 11.73,
+    "end_time": 11.9,
+    "value": 0.02920673229682673
+  },
+  {
+    "start_time": 11.9,
+    "end_time": 12.07,
+    "value": 0.034820990571057295
+  },
+  {
+    "start_time": 12.07,
+    "end_time": 12.24,
+    "value": 0.04319699193136035
+  },
+  {
+    "start_time": 12.24,
+    "end_time": 12.41,
+    "value": 0.049179978968246836
+  },
+  {
+    "start_time": 12.41,
+    "end_time": 12.58,
+    "value": 0.055884104105298045
+  },
+  {
+    "start_time": 12.58,
+    "end_time": 12.75,
+    "value": 0.05687003803930154
+  },
+  {
+    "start_time": 12.75,
+    "end_time": 12.92,
+    "value": 0.05008371413872128
+  },
+  {
+    "start_time": 12.92,
+    "end_time": 13.09,
+    "value": 0.05738428794324631
+  },
+  {
+    "start_time": 13.09,
+    "end_time": 13.26,
+    "value": 0.060158214194635996
+  },
+  {
+    "start_time": 13.26,
+    "end_time": 13.43,
+    "value": 0.06627130540435437
+  },
+  {
+    "start_time": 13.43,
+    "end_time": 13.6,
+    "value": 0.0700077017158033
+  },
+  {
+    "start_time": 13.6,
+    "end_time": 13.77,
+    "value": 0.07294512303756093
+  },
+  {
+    "start_time": 13.77,
+    "end_time": 13.94,
+    "value": 0.07313426291887433
+  },
+  {
+    "start_time": 13.94,
+    "end_time": 14.11,
+    "value": 0.07391970105821319
+  },
+  {
+    "start_time": 14.11,
+    "end_time": 14.28,
+    "value": 0.08503653859126661
+  },
+  {
+    "start_time": 14.28,
+    "end_time": 14.45,
+    "value": 0.08381889890206368
+  },
+  {
+    "start_time": 14.45,
+    "end_time": 14.62,
+    "value": 0.08321989327396773
+  },
+  {
+    "start_time": 14.62,
+    "end_time": 14.79,
+    "value": 0.08568863875463384
+  },
+  {
+    "start_time": 14.79,
+    "end_time": 14.96,
+    "value": 0.07880898579134585
+  },
+  {
+    "start_time": 14.96,
+    "end_time": 15.13,
+    "value": 0.08081101075374912
+  },
+  {
+    "start_time": 15.13,
+    "end_time": 15.3,
+    "value": 0.084323372191865
+  },
+  {
+    "start_time": 15.3,
+    "end_time": 15.47,
+    "value": 0.08678813182214955
+  },
+  {
+    "start_time": 15.47,
+    "end_time": 15.64,
+    "value": 0.08832208258125476
+  },
+  {
+    "start_time": 15.64,
+    "end_time": 15.81,
+    "value": 0.09155475765014416
+  },
+  {
+    "start_time": 15.81,
+    "end_time": 15.98,
+    "value": 0.09779208706420836
+  },
+  {
+    "start_time": 15.98,
+    "end_time": 16.15,
+    "value": 0.08776007767745551
+  },
+  {
+    "start_time": 16.15,
+    "end_time": 16.32,
+    "value": 0.4056113403309324
+  },
+  {
+    "start_time": 16.32,
+    "end_time": 16.49,
+    "value": 0.4631916117853925
+  },
+  {
+    "start_time": 16.49,
+    "end_time": 16.66,
+    "value": 0.45022857347843737
+  },
+  {
+    "start_time": 16.66,
+    "end_time": 16.83,
+    "value": 0.44228334477823894
+  },
+  {
+    "start_time": 16.83,
+    "end_time": 17.0,
+    "value": 0.42481960454799067
+  }
+]
